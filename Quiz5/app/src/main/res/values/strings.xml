@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Million</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="textview">TextView</string>
+    <string name="checkbox2">CheckBox</string>
+    <string name="checkbox3">CheckBox</string>
+    <string name="checkbox4">CheckBox</string>
+<string name="start">START</string>
+    <string name="question">TextView</string>
+    <string name="boolean1">True</string>
+    <string name="boolean2">False</string>
+    <string name="correct">Correct</string>
+    <string name="send">SEND</string>
+</resources>
